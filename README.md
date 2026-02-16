@@ -1,6 +1,4 @@
-![Banner](https://via.placeholder.com/900x200?text=IRATURINZE+Providence+-+Software+Developer)
-
-# Hi, I'm IRATURINZE Providence 👋
+# Hi, I'm IRATURINZE Providence
 
 **Software Developer specializing in Web Applications and Software Development**  
 *"Turning ideas into reliable software solutions"*
